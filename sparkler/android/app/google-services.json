@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "452950992890",
+    "project_id": "sparkler-e31dd",
+    "storage_bucket": "sparkler-e31dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:452950992890:android:d6d3190d89a001c81a2643",
+        "android_client_info": {
+          "package_name": "com.example.sparkler"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBObVBSWaZX9JkNqGgvK2wi1QLfpLv17NI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

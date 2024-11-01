@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 
 void main() {
-  runApp( DiceRoller());
+  runApp( MyApp());
 }
-class DiceRoller extends StatefulWidget {
-  const DiceRoller({super.key});
+class MyApp extends StatefulWidget {
+  const MyApp({super.key});
 
   @override
   State<StatefulWidget> createState() {

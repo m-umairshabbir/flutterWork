@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "171317370984",
+    "project_id": "cloud-fire-store-practice",
+    "storage_bucket": "cloud-fire-store-practice.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171317370984:android:54193fa5e56dd4520d1bdd",
+        "android_client_info": {
+          "package_name": "com.example.cloud_store_practice"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuXX3at1vDAbKyETWnlFlGn1Dp6txE0M4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
